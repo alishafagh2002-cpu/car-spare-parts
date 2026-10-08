@@ -1,0 +1,6 @@
+{
+  "name": "یدک‌پارت | فروشگاه آنلاین و تخصصی لوازم یدکی خودرو",
+  "description": "فروشگاه جامع قطعات و لوازم یدکی خودروهای داخلی و خارجی، استعلام اصالت قطعات، تضمین بهترین قیمت و ارسال سریع به سراسر کشور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
